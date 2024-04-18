@@ -1,5 +1,5 @@
 # Weather App 
 
-### Weather App is a mobile application developed on the Flutter platform that provides the user with information about the current weather and additional weather information. The app provides access to weather data for Astana and Almaty. The app also provides useful weather tips and a calculator to convert temperature from Celsius to Fahrenheit.
+### **Weather App** is a mobile application developed using the Flutter framework that provides users with information about current weather conditions and additional weather-related data. The application provides access to weather information for Astana and Almaty, as well as useful weather advice and a temperature converter tool that allows users to convert temperatures between Celsius and Fahrenheit units.
 
 ### Wireframe(figma) : https://www.figma.com/file/qw5P72Ab3yCd0BeC8Di1DE/ASS3?type=design&node-id=0%3A1&mode=design&t=izLjzqaNSEO96FA1-1
